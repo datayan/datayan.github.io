@@ -1,5 +1,7 @@
 ---
 published: true
+layout:	title
+post :You're up and running!
 ---
 ## A New Post
 
