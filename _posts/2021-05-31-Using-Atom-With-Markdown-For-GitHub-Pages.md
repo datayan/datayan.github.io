@@ -2,7 +2,6 @@
 layout: post
 title: Using Atom With Markdown For A Blog On GitHub Pages
 ---
-<div class=text-justify>
 
 ![github-atom-markdown](/images/github-atom-markdown.png)
 
