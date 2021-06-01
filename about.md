@@ -5,11 +5,12 @@ permalink: /about/
 ---
 ![Header](https://raw.githubusercontent.com/datayan/datayan/main/banner.png "Header")
 
+## Hi | 你好 | नमस्ते | Hola | নমস্কর | Bonjour | Привет | Hallo
+
 I am a data analyst and a student of statistics. I have had around 10 years of experience being a mechanical engineer before I decided on a career change. When I am not cleaning data in excel files, I am either gaming or playing with my baby girl or getting yelled at by  my wife. (Yeah, things like that get me yelled at!)
 
 
-## Hi | 你好 | नमस्ते | Hola | নমস্কর | Bonjour | Привет | Hallo
-![Header](https://raw.githubusercontent.com/datayan/datayan/main/banner.png "Header")
+
 
 ![](https://img.shields.io/badge/Coding_Skills--informational?style=flat-square&logo=Codecademy&logoColor=white&?labelColor=1E415D)
 ![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=yellow&color=3776AB)
