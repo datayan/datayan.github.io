@@ -9,8 +9,7 @@ permalink: /about/
 
 I am a data analyst and a student of statistics. I have had around 10 years of experience being a mechanical engineer before I decided on a career change. When I am not cleaning data in excel files, I am either gaming or playing with my baby girl or getting yelled at by  my wife. (Yeah, things like that get me yelled at!)
 
-
-
+So the GitHub readme look a bit dull at times with nothing but lots of text, so I thought atleast my readme could be a bit colourful to break the monotony.
 
 ![](https://img.shields.io/badge/Coding_Skills--informational?style=flat-square&logo=Codecademy&logoColor=white&?labelColor=1E415D)
 ![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=yellow&color=3776AB)
